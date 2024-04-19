@@ -1,0 +1,8 @@
+color = "red"
+if color == "red":
+    print("red")
+elif color == "red":
+    print("red")
+    
+if color == "red":
+    print("red")
