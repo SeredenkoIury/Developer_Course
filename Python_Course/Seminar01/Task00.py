@@ -48,4 +48,20 @@ print("Full Tasks in one file.")
 # else:
 #     print("There is", b + a - 1, "wagons in the Train")
 
-print("Task 04") #================================================================================================ Task 04
+# print("Task 04") #================================================================================================ Task 04
+# # Дано натуральное число, Требуется определить является ли год с данным номером високосным. 
+# # если год является високосным,  то выведете YES, иначе выведете NO
+# # В соответствии с григорианским календарем год является високосным если его номер кратен 4, но
+# # не кратен 100, а также, если он кратен 400.
+
+# year = int(input("add the year number to check if the year is visokosniy and press ENTER: "))
+
+# if year % 4 ==0 and year % 100 != 0 or year % 400 == 0:
+#     print("Yes, the", year, "year is visokosniy")
+# else:
+#     print("No,", year, "year is not visokosny")
+    
+# #===================== alternative decision =========================
+# print("Yes, the year is visokosniy" if year % 4 == 0 and year % 100 != 0 or year % 400 == 0 else "No, year is not visokosny")
+
+print("Task 05") #================================================================================================ Task 05
