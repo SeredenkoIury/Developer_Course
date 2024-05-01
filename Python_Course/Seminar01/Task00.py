@@ -18,4 +18,34 @@ print("Full Tasks in one file.")
 
 # print("The car will spend ", (m + n - 1)//n, " days for the road")
 
-print("Task 02") #================================================================================================ Task 02
+# print("Task 02") #================================================================================================ Task 02
+
+# # We have some different classes on the 1 class room. 
+# # all of them have different numbers of people
+# # and we have a desks, 1 desk - 1-2 people.
+# # write the programm to know the less number desks that we need
+# #a, b, c = 20, 21, 22
+
+# a = int(input ("Add the numder of people in the first class and press ENTER:  "))
+# b = int(input("Add the numder of people in the second class and press ENTER:  "))
+# c = int(input ("Add the numder of people in the third class and press ENTER:  "))
+
+# print(f" The less number of desks that we needs is {a // 2 + a % 2 + b // 2 + b % 2 + c // 2 + c % 2}")
+
+# print("Task 03") #================================================================================================ Task 03
+# find the number of the vagons or tell than u can not do that
+# tha number of the vagon starts from the locomotive in the straight way
+# the person know the number of the vagon from his eyes and
+# will know the number of the wagon correctly
+# find the solution
+# input 3 ,4 
+# output 6
+
+# a = int(input ("Add the numder of the wagon that person been chosen:  "))
+# b = int(input("Add the numder of the wagon that person foundout inside:  "))
+# if a == b:
+#     print("There is no fast solution to find the number of the wagons in the train")
+# else:
+#     print("There is", b + a - 1, "wagons in the Train")
+
+print("Task 04") #================================================================================================ Task 04
